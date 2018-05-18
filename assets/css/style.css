@@ -1,0 +1,14 @@
+#font-barcode {
+    font-family: 'Libre Barcode 39';
+}
+
+div.jumbotron {
+    color:#fff;
+    text-align:right;
+    background:url('https://s3-us-west-2.amazonaws.com/benji.to/logo-front-range-comics.png');
+    background-size:cover;
+    background-position:center;
+    padding-top:100px;
+    padding-bottom:100px;
+    opacity: 1;
+}
