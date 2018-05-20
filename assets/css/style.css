@@ -2,18 +2,27 @@
     font-family: 'Libre Barcode 39';
 }
 
-.col-sm {
-    font-family: 'Roboto';
-    text-align: center;
-}
-
-div.jumbotron {
-    color: dodgerblue;
+.jumbotron {
+    color: #fff;
     text-align: right;
-    background:url('https://s3-us-west-2.amazonaws.com/benji.to/logo-front-range-comics.png');
+    background:url('https://s3-us-west-2.amazonaws.com/benji.to/img-bg-family-sports.jpg');
     background-size:cover;
     background-position:center;
     padding-top:100px;
     padding-bottom:100px;
     opacity: .88;
+}
+
+#front-range-logo-left {
+    float: left;
+}
+
+img.img-responsive.center-block {
+    border-radius: 20px;
+}
+
+@media screen and (max-width: 768px) {
+	#text-jumbotron {
+        text-align: left;
+    }
 }
