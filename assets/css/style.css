@@ -24,6 +24,17 @@
     opacity: .88;
 }
 
+.jumbotron-contact-bg {
+    color: #fff;
+    text-align: right;
+    background:url('https://s3-us-west-2.amazonaws.com/benji.to/img-jumbotron-contact.png');
+    background-size:cover;
+    background-position:center;
+    padding-top:100px;
+    padding-bottom:100px;
+    opacity: .88;
+}
+
 #front-range-logo-left {
     float: left;
 }
