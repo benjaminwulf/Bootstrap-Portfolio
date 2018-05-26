@@ -48,3 +48,12 @@ img.img-responsive.center-block {
         text-align: left;
     }
 }
+
+/* BEGIN GOLFING */
+.golf-menu {
+    border: 0 auto;
+    text-align: left;
+    font: 300;
+
+}
+/* END GOLFING */
