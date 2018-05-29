@@ -44,7 +44,7 @@ img.img-responsive.center-block {
 }
 
 @media screen and (max-width: 768px) {
-	#text-jumbotron {
+	.text-align-tablet {
         text-align: left;
     }
 }
