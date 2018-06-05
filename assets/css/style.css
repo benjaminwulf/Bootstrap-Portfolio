@@ -56,6 +56,27 @@ img.img-responsive.center-block {
 
 }
 
+/* COME BACK TO HERE AND USE JQUERY TO CHANGE COLOR BASED ON CLICK MAYBE */
+.code-menu {
+    background-color: #fef04d;
+}
+
+/* Container holding the image and the text */
+.img-text-overlay {
+    position: relative;
+
+}
+
+/* Bottom right text */
+.text-block {
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    color: dimgray;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
 .login-form {
     background-color: #33af67;
     padding: 1em 0 0;
